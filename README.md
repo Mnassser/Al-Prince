@@ -1,7 +1,3 @@
-
-ChatGPT
-Certainly! Here's an overview of "El Prince" app, a service-oriented application developed using React Native Expo, and incorporating several libraries like Tailwind CSS and others:
-
 Technologies and Tools Used:
 React Native Expo:
 
